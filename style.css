@@ -1,0 +1,20 @@
+#pokemon-image
+{
+    width: 30%;
+}
+
+#title-img
+{
+    width: 30%;
+}
+
+.pokemonImage
+{
+    border: solid;
+}
+
+body 
+{
+    background-color: lightblue;
+}
+  
